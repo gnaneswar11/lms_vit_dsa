@@ -1,4 +1,9 @@
 
+/*
+ * Copyright (c) 2026 Gnaneswar Bommu
+ * All rights reserved.
+ */
+
 #include <iostream>
 #include <cassert>
 #include "library.cpp"
